@@ -18,7 +18,7 @@ Each step can include a tutorial on how it works and some information for the us
 
 The goal is to pass the QF on in a simple and interactive way, in which the person at the end of the experience can understand how a round works, how the QF math works, encourage people to create their projects, 
 
-I would like to add an educational layer to the calculator on the (wtfisqf.com)
+I would like to add an educational layer to the calculator on the [WTF is QF?](https://wtfisqf.com/)
 
 On the website you add the amount of the Project, how many people donate and the amount donated. the result is given by the formula. I would like to add a storytelling, exactly to solve this doubt of what QF will be used for
 
