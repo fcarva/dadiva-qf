@@ -8,7 +8,7 @@ Dadiva is an educational tool about quadratic funding
 
 Quadratic funding is a coordinating mechanism to finance public goods, in this financing mechanism the amount of contribution matters more than the amount donated.
 
-There is a project of a QF calculator, created by the site (wtfisqf.com)
+There is a project of a QF calculator, inspired by the project https://wtfisqf.com/ created by the site by **@_anishagnihotri & @owocki**
  
 My intention is to create a storytelling for the process of creating the project, description, funding round (simulation), the result of the donation with the QF. 
 
