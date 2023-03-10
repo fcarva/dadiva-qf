@@ -26,9 +26,9 @@ On the website you add the amount of the Project, how many people donate and the
 
 > Which project would you like to create?
 
-### - Local Business
-    - education
-    - public goods
+    - Local Business
+    - Education
+    - Public Goods
     - Podcast, books, music, etc.
 
 > How many people can you reach with your campaign?
