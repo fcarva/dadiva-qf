@@ -2,7 +2,7 @@
 
 ## Quadratic funding calculator
 
-### What is?
+### ❔ What is?
 
 Dadiva is an educational tool about quadratic funding
 
@@ -14,7 +14,7 @@ My intention is to create a storytelling for the process of creating the project
 
 Each step can include a tutorial on how it works and some information for the user to interact
 
-### What's the goal?
+### 🎯 What's the goal?
 
 The goal is to pass the QF on in a simple and interactive way, in which the person at the end of the experience can understand how a round works, how the QF math works, encourage people to create their projects, 
 
@@ -46,7 +46,7 @@ On the website you add the amount of the Project, how many people donate and the
 
 > Result and analysis on the project and payoffs
 
-### References
+### 📚 References
 
 My references are Gitcoin, Giveth, the quadratic funding texts,  wtfisqf.com, clr.fund
 
