@@ -1,6 +1,6 @@
 # dadiva-qf
 
-## Quadratic funding calculator
+## Quadratic Funding Calculator
 
 ### ❔ What is?
 
