@@ -35,11 +35,14 @@ On the website you add the amount of the Project, how many people donate and the
 
 > Create your project
 
-proposal/description/write/see how it turned out
+    - Proposal
+    - Description
+    - Write your proposal
+    - see how it turned out
 
 > Interaction with other example projects
 
-> investment round simulation
+> Quadratic Funding Round Simulation
 
 > Result and analysis on the project and payoffs
 
