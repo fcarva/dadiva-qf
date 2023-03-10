@@ -12,11 +12,11 @@ There is a Educational QF Calculator, inspired by the project https://wtfisqf.co
  
 My intention is to create a storytelling for the process of creating the project, description, funding round (simulation), the result of the donation with the QF. 
 
-Each step can include a tutorial on how it works and some information for the user to interact
+Each step can include a tutorial on how it works and some information for the user to interact.
 
 ### 🎯 What's the goal?
 
-The goal is to pass the QF on in a simple and interactive way, in which the person at the end of the experience can understand how a round works, how the QF math works, encourage people to create their projects, 
+The goal is to pass the QF on in a simple and interactive way, in which the person at the end of the experience can understand how a round works, how the QF math works, encourage people to create their projects. 
 
 I would like to add an educational layer to the calculator on the [WTF is QF?](https://wtfisqf.com/)
 
